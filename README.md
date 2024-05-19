@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![empd exp3 output](https://github.com/Rakshithajagadeesh07/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147081797/c8f8efc9-b25b-452b-95d3-ae90306b16d0)
 
-### Name:
-### Register Number:
+### Name: RAKSHITHA J
+### Register Number: 212223240135
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
